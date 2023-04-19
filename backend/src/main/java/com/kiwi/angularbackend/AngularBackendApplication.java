@@ -1,5 +1,6 @@
 package com.kiwi.angularbackend;
 
+import com.kiwi.angularbackend.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -9,5 +10,4 @@ public class AngularBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AngularBackendApplication.class, args);
 	}
-
 }
